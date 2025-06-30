@@ -10,13 +10,13 @@ html {
 body {
   margin: 1rem;
   margin-right: 1rem;
-  font-family: serif;
+  font-family: sans-serif;
   margin-top: 1rem;
   margin-bottom: 0px;
   color: #000000;
   background-color: #FFFFFF;
-  max-width: 30rem;
-  line-height: 32px;
+  max-width: 24rem;
+  line-height: 36px;
 }
 
 a:link {
