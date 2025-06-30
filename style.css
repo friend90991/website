@@ -1,0 +1,50 @@
+html {
+  box-sizing: border-box;
+  font-size: 30px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 1rem;
+  margin-right: 1rem;
+  font-family: sans-serif;
+  margin-top: 1rem;
+  margin-bottom: 0px;
+  color: #000000;
+  background-color: #FFFFFF;
+  max-width: 24rem;
+  line-height: 36px;
+}
+
+a:link {
+  color: #000000;
+}
+
+/* visited link */
+a:visited {
+  color: #000000;
+}
+
+/* mouse over link */
+a:hover {
+  background-color: #0000FF;
+}
+
+/* selected link */
+a:active {
+  color: #000000;
+}
+
+p.view {
+  max-width: 24rem;
+  color: #000000;
+}
+
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
