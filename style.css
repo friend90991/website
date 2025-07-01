@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-size: 24px;
+  font-size: 30px;
 }
 
 *, *:before, *:after {
@@ -15,8 +15,8 @@ body {
   margin-bottom: 0px;
   color: #000000;
   background-color: #FFFFFF;
-  max-width: 36rem;
-  line-height: 30px;
+  max-width: 30rem;
+  line-height: 36px;
 }
 
 a:link {
